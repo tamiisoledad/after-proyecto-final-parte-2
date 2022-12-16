@@ -1,0 +1,24 @@
+{
+  "name": "after",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamiisoledad/after-proyecto-final-parte-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamiisoledad/after-proyecto-final-parte-2/issues"
+  },
+  "homepage": "https://github.com/tamiisoledad/after-proyecto-final-parte-2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
